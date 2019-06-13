@@ -1,2 +1,2 @@
-# Mining-Document
-All about cryptocurrency mining
+# Innosilicon
+All about Innosilicon Miners
