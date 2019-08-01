@@ -1,0 +1,1 @@
+A4 Dominator is a full custom design with a tremendous focus on efficiency, providing an incredible 1.2W/Mhs in a DCDC less daisy chain configuration. Nothing can touch the A4 Dominator, and it is going to stay that way for quite some time to come!
