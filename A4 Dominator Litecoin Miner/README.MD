@@ -13,4 +13,7 @@ In crypto mining, a system image is a serialized copy of the entire state of a m
 
 <b>G5-20-v2.0.1.rar:</b> https://drive.google.com/file/d/0B-_jcpU1s5dgakpVNnl4eTduRFk/view?usp=sharing
 
+<b>G5-20-V2.0.3.zip: </b>https://drive.google.com/file/d/18FCmlSgnW10Ar52P4rVgGZ4LIeLEpzQ8/view?usp=sharing
+
 <b>a4_ltc_20161106.7z: </b>https://drive.google.com/file/d/1Yg1bv3OyynM2opbpQMMbPp3b87xXMAG6/view?usp=sharing
+
